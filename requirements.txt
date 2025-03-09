@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pdf2image
+easyocr
+pymupdf
+pdfplumber
+pillow
+gunicorn
